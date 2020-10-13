@@ -14,7 +14,7 @@ These insturctions will get you a copy of the project up and running on your loc
 #### 1. Clone the project
 
 ```bash
-$ git clone https://github.com/velopert/velog.git
+$ git clone https://github.com/kevin-chen89/velog.git
 ```
 
 #### 2. Install packages from npm (both in frontend & backend)
